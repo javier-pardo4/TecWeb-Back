@@ -48,8 +48,8 @@ public class TestingTecWeb {
 	private WebDriverWait wait;
 
     // Variables para los correos
-    private final String EMAIL_PEPE = "biblio90@gmail.com";
-    private final String EMAIL_ANA = "anatecwebB10@gmail.com";
+    private final String EMAIL_PEPE = "biblio91@gmail.com";
+    private final String EMAIL_ANA = "anatecwebB11@gmail.com";
 	
 	@BeforeAll
 	public void setUp() {
